@@ -26,20 +26,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-<a href="https://movie-recommendation-system-hggv3rsf7watxb2xyvo9sb.streamlit.app/">
-  <img src="Screenshot.png" alt="Movie Recommender System Screenshot" width="100%">
-</a>
-
-*Select a movie, hit **Recommend**, and get 5 similar picks with posters.*
-
-</div>
-
----
-
 ## 🚀 Live Demo
 
 <div align="center">
