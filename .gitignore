@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.DS_Store
+.vscode/
+.idea/
+*.swp
+similarity.pkl
+movies.pkl
+tmdb_5000_*.csv
+.git-backup*
+.git-old-backup*
