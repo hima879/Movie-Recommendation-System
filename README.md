@@ -12,9 +12,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-system-hggv3rsf7watxb2xyvo9sb.streamlit.app/)
+
 <br>
 
-**[🚀 Live Demo](https://your-app-url.streamlit.app)** &nbsp;•&nbsp;
+**[🚀 Live Demo](https://movie-recommendation-system-hggv3rsf7watxb2xyvo9sb.streamlit.app/)** &nbsp;•&nbsp;
 **[✨ Features](#-features)** &nbsp;•&nbsp;
 **[🧠 How It Works](#-how-it-works)** &nbsp;•&nbsp;
 **[🛠️ Run Locally](#️-run-locally)** &nbsp;•&nbsp;
@@ -28,9 +30,11 @@
 
 <div align="center">
 
-> 🖼️ *Add a screenshot or GIF of your app here*
->
-> `![App Screenshot](screenshot.png)`
+<a href="https://movie-recommendation-system-hggv3rsf7watxb2xyvo9sb.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/hima879/Movie-Recommendation-System/main/Screenshot.png" alt="Movie Recommender System Screenshot" width="100%">
+</a>
+
+*Select a movie, hit **Recommend**, and get 5 similar picks with posters.*
 
 </div>
 
@@ -40,9 +44,8 @@
 
 <div align="center">
 
-### 👉 **[Try it on Streamlit Cloud](https://your-app-url.streamlit.app)** 👈
+### 👉 **[Try it on Streamlit Cloud](https://movie-recommendation-system-hggv3rsf7watxb2xyvo9sb.streamlit.app/)** 👈
 
-*(replace the link above after you deploy)*
 
 </div>
 
@@ -122,8 +125,8 @@ flowchart LR
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/hima879/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 
 # 2. Create a virtual environment
 python -m venv venv
